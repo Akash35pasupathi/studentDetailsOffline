@@ -2,6 +2,8 @@
 
 This application will help Staff to manage classes and students details. Staff can create new classes, and they can add multiple students into that class from the dashboard.
 
+##Online Demo : https://youtu.be/_VYdgA4SHcs
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
